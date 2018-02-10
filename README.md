@@ -1,4 +1,4 @@
 # Hello-world
 Just another repository
 
-Hello, my name its Evgen
+Hello, my name it's Evgen
